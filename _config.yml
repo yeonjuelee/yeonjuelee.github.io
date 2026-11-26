@@ -23,7 +23,7 @@ repository               : "yeonjuelee/yeonjuelee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/이연주-1.jpg"
   name             : "Yeonju Lee"
   pronouns         : "she/her"  
   bio              : "Ph.D. Student in Political Science (2nd-Year)"
